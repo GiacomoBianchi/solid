@@ -1,4 +1,4 @@
 ## SOLID theme for Attract Mode
 
 
-extract in your layouts folder
+extract into layouts folder of Attract Mode
