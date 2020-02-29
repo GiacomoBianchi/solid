@@ -620,7 +620,7 @@ if ( my_config["rme_opt"] == "YES RETRACTABLE" || my_config["rme_opt"] == "YES" 
 	
 	local t2p = "[!players]";		//  temp players text
 	local t2c = "[!category]"		//  temp category text
-	if ( my_config["rma_opt"] == "NO" ) {
+	if ( my_config["rma_opt"] == "NO" || my_config["rma_opt"] == "SPECS" ) {
 		t2p = "";	//  temp players text
 		t2c = "";	//  temp category text
 	}
